@@ -1,0 +1,14 @@
+.btn-site {
+  color: white;
+  padding: 16px 24px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #266ef5;
+  transition: background 0.3s ease;
+}
+.btn-site:hover {
+  opacity: 1;
+  background: #0586f1;
+  text-decoration: none;
+  color: white;
+}

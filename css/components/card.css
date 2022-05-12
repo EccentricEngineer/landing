@@ -1,0 +1,30 @@
+.card img {
+  width: 180px;
+
+}
+
+.card {
+  border: 1px solid rgb(230, 230, 230);
+  width: 200px;
+  padding: 20px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230, 230, 230);
+  text-align: center;
+  flex-basis: 0;
+  flex-grow: 1;
+  margin: 0 20px;
+}
+
+.card p {
+  opacity: 0.5;
+  font-size: 14px;
+}
+
+.cards {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  flex-direction: row;
+
+}
